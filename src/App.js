@@ -10,6 +10,7 @@ function App() {
         <p>
           从入门开始学习react
         </p>
+        <p>从入门到放弃</p>
         <a
           className="App-link"
           href="https://reactjs.org"
